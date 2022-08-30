@@ -1,6 +1,4 @@
 # NLP
 
-Hier wird eine Analyse an dem „ESUPOL Teildatensatz Minorities“ im Rahmen des Moduls DIS25a - Natural Language Processing des Bachelorstudiengangs Data and Information Science an
-der Fakultät für Informations- und Kommunikationswissenschaften an
-der TH Köln behandelt. Das Ziel der Gruppe „PowerPuff“ (Diana Disterhof, Anna Schmer, Burak Tanriver) ist, eine Analyse hinsichtlich der Forschungs
-frage und zu dem Thema Ethnical Bias auszuarbeiten.
+Here, an analysis on the "ESUPOL Minorities" dataset is treated as part of the DIS25a - Natural Language Processing module of the Data and Information Science bachelor's degree program at the Faculty of Information and Communication Sciences at TH Köln. The goal of the group "PowerPuff" (Diana Disterhof, Anna Schmer, Burak Tanriver, Luisa Strassburger) is to work out an analysis regarding the research question and the topic Ethnical Bias.
+
