@@ -12,3 +12,5 @@ The goal of the group "PowerPuff" (Diana Disterhof, Anna Schmer, Burak Tanriver,
 -visualization_presentation.ipynb: these are only the visualizations that were shown during the final presentation
 
 -analysis.ipynb: everything regarding the analysis is included here
+
+-TensorAnalyse.ipynb: analysis for the tensors
